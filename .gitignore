@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!README.md
+!LICENSE
+!src/
+!src/**
+
+src/vite-env.d.ts
